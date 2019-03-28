@@ -3,8 +3,10 @@ about structure of SRS (softwre requirement specification)
 
 *INTRODUCTION
 
-*Purpose
-*scope
+-Purpose
+
+
+-scope
 *Definitions, acronyms, and abbreviations 
 *references 
 *overview
