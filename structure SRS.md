@@ -15,12 +15,18 @@ about structure of SRS (softwre requirement specification)
 
 *OVERRALL DESCRIPTION 
 
-*product perspective 
-*product functions 
-*user characteristics 
-*contraints 
-*assuptions and dependencies 
+-product perspective 
 
-*specific requirements 
-*appendixes
-**index 
+-product functions 
+
+-user characteristics 
+
+-contraints 
+
+-assuptions and dependencies 
+
+*SPECIFIC REQUIREMENTS 
+
+-appendixes
+
+-index 
