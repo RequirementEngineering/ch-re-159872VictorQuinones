@@ -1,6 +1,7 @@
 about structure of SRS (softwre requirement specification)
 
 
+
 *INTRODUCTION
 
 -Purpose
@@ -13,6 +14,8 @@ about structure of SRS (softwre requirement specification)
 
 -overview
 
+
+
 *OVERRALL DESCRIPTION 
 
 -product perspective 
@@ -24,6 +27,8 @@ about structure of SRS (softwre requirement specification)
 -contraints 
 
 -assuptions and dependencies 
+
+
 
 *SPECIFIC REQUIREMENTS 
 
