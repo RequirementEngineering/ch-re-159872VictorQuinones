@@ -10,7 +10,12 @@ The purpose of this document is to describe the software requirements of specifi
 
 -Definitions, acronyms, and abbreviations 
 
+ABC: ups, downs and chages 
+multifunctional:have several functions for diferents uses in distints aspects 
+
+
 -references 
+http://cbtis270.edu.mx/organigrama.aspx
 
 -overview
 
