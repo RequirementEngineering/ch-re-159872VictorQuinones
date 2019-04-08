@@ -19,20 +19,25 @@ the multifunctional system ABC consist in general, about the use and management 
 ## product functions 
 The main function of this system is to provide control in every aspect about the resources of CBTis 270. Provide information at administrator of library, technical support, and workshop. 
 
-USE CASES 	DESCRIPTION 
-Select your profile 	the user of the system can choose according to his domain
-registration of new article	the user can make a new registration in the inventory system
-modify data of the article	the user can modify the status of the articles as well as make changes
-Delete the article	the user can remove articles that have already been captured
-search for articles	the user can search for articles that belong to his class or his profile
+| USE CASES | DESCRIPTION |
+| --------- | ----------- |
+| Select your profile | the user of the system can choose according to his domain |
+| registration of new article | the user can make a new registration in the inventory system |
+| modify data of the article | the user can modify the status of the articles as well as make changes |
+| Delete the article | the user can remove articles that have already been captured |
+| search for articles | the user can search for articles that belong to his class or his profile |
+
+
 
 
 ## user characteristics
 There are some user in the multifunctional system ABC like:
-User 	Description 
-End user 	this user is responsible for making highs, lows and changes according to their domain area
-Administrator 	This user has access to all domain areas and see your information
-	
+
+| User | Description |
+| ---- | ----------- |
+| End user | this user is responsible for making highs, lows and changes according to their domain area |
+| Administrator | This user has access to all domain areas and see your information |
+
 
  
 ## constraints 
@@ -41,15 +46,18 @@ Administrator 	This user has access to all domain areas and see your information
 -the system can be distributed and may cause connection errors to the database
 
 ## assumptions and dependencies 
-Assumptions and dependencies 	Description 
+
+| Assumptions and dependencies | Description | 
+| ---------------------------- | ----------- |
+| Assumption 1 | the user requires to login in their relevant profile |
+| Assumption 2 | only the administrator can use all the system information |
+| Dependencies 1 | Database connection |
+| Dependencies 2 | User and password |
 	
 	
-	
-
-
-
 # SPECIFIC REQUIREMENTS 
 
-## appendixes
-
-## index
+## external interface requirements 
+## user interface 
+## hardware interface 
+## comunications interfaces 
